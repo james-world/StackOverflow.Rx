@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="CombineWithPreceding.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Spy.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\StackOverflow.Rx.Linq\StackOverflow.Rx.Linq.csproj">
